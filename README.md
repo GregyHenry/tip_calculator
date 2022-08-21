@@ -1,19 +1,21 @@
-# Gerador de QRCode - Generate QRCode
+# Calculadora de gorjeta - Tip Calculator
 
-Esse projeto para realizar a criação de links de QRCode utilizando ReactJs.
+Projeto para realizar o calculo de gorjeta por range de satisfação e pessoas para divisão.
 
-This project to creation of QRCode links using ReactJs.
+This project is to calculate the tip by range of satisfaction and people to split the bill.
+
+Url: https://gregyhenry.github.io/tip_calculator/
 
 ## Projeto / Project:
 
-<img width="337" alt="image" src="https://user-images.githubusercontent.com/92655806/185769432-b9aacc91-7b43-4d75-a97a-fe6cce2bbd18.png">
+<img width="1010" alt="image" src="https://user-images.githubusercontent.com/92655806/185814496-569a8ece-d371-442f-948c-1edafbd3302b.png">
 
 ## Tecnologias utilizadas
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Greg-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Greg-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Greg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Greg-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 ## Desenvolvedor
